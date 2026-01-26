@@ -26,7 +26,7 @@ ALLOWED_EXTENSIONS = {'jpg', 'jpeg', 'png'}  # Images only
 MAX_FILE_SIZE = 10 * 1024 * 1024  # 10MB, matching frontend
 # Removed unnecessary model.save() call
 #MODEL_PATH = r'C:\Users\divya\Downloads\Project Exhibition - 2\Project Exhibition - 2\deepfake_detection_model.h5'
-MODEL_PATH = "C:\deepfake_detection_model.h5"
+MODEL_PATH = "deepfake_detection_model.h5"
 # Initialize Flask app
 app = Flask(__name__)
 
