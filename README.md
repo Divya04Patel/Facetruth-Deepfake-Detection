@@ -27,6 +27,7 @@ Performance is monitored using metrics like accuracy, precision, recall, and F1 
 *4.Prediction:-*
 Users can upload images (JPEG/PNG/JPG) up to 10MB. The interface includes options to clear or reprocess the file, ensuring flexibility during analysis.
 
+<img width="1887" height="829" alt="image" src="https://github.com/user-attachments/assets/ec9ec3fe-3aa8-4118-9254-026336f8267a" />
 
 
 The "Detect Deepfake" button triggers the model to scan the uploaded image for AI-generated artifacts, providing a real-or-fake prediction based on learned features.
